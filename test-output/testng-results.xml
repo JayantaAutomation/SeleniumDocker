@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T18:16:00 IST" name="Suite" finished-at="2024-08-16T18:16:17 IST" duration-ms="16184">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T18:16:00 IST" name="Test" finished-at="2024-08-16T18:16:17 IST" duration-ms="16184">
+      <class name="com.qa.seleniumgrid.docker.CrossbrowserTestfirefox">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestfirefox@5158b42f]" started-at="2024-08-16T18:16:05 IST" name="setup" finished-at="2024-08-16T18:16:09 IST" duration-ms="3630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOne()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestfirefox@5158b42f]" started-at="2024-08-16T18:16:09 IST" name="testOne" finished-at="2024-08-16T18:16:11 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestfirefox@5158b42f]" started-at="2024-08-16T18:16:11 IST" name="tearDown" finished-at="2024-08-16T18:16:12 IST" duration-ms="1180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.seleniumgrid.docker.CrossbrowserTestfirefox -->
+      <class name="com.qa.seleniumgrid.docker.CrossbrowserTestedge">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestedge@595b007d]" started-at="2024-08-16T18:16:12 IST" name="setup" finished-at="2024-08-16T18:16:13 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOne()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestedge@595b007d]" started-at="2024-08-16T18:16:13 IST" name="testOne" finished-at="2024-08-16T18:16:16 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestedge@595b007d]" started-at="2024-08-16T18:16:16 IST" name="tearDown" finished-at="2024-08-16T18:16:17 IST" duration-ms="1164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.seleniumgrid.docker.CrossbrowserTestedge -->
+      <class name="com.qa.seleniumgrid.docker.CrossbrowserTestchrome">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestchrome@71809907]" started-at="2024-08-16T18:16:01 IST" name="setup" finished-at="2024-08-16T18:16:02 IST" duration-ms="1848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOne()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestchrome@71809907]" started-at="2024-08-16T18:16:02 IST" name="testOne" finished-at="2024-08-16T18:16:05 IST" duration-ms="2461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.seleniumgrid.docker.CrossbrowserTestchrome@71809907]" started-at="2024-08-16T18:16:05 IST" name="tearDown" finished-at="2024-08-16T18:16:05 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.seleniumgrid.docker.CrossbrowserTestchrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
